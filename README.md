@@ -6,16 +6,18 @@
 
 * Run Client
 `cd client/`
+
 `yarn start`
 
 * Build Client
 `cd client/`
+
 `yarn build`
 
-* Client:  
+* Client
 `http://localhost:3000/`
 
-* Server: 
+* Server
 `http://localhost:4000/graphql`
 
 
