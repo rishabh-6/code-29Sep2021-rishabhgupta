@@ -1,18 +1,22 @@
 * Car Dealership
 
 * Run Server
-`cd server/`
-`node server.js`
+```
+cd server/
+node server.js
+```
 
 * Run Client
-`cd client/`
-
-`yarn start`
+```
+cd client/
+yarn start
+```
 
 * Build Client
-`cd client/`
-
-`yarn build`
+```
+cd client/
+yarn build
+```
 
 * Client
 `http://localhost:3000/`
